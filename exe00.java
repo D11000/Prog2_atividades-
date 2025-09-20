@@ -1,3 +1,7 @@
+//0. Escreva um procedimento que receba um número inteiro como parâmetro e imprima o mês
+//correspondente. Por exemplo, 2 corresponde a fevereiro. O procedimento deve retornar uma
+//mensagem de erro caso o valor recebido não faça sentido. Crie um programa que leia um valor
+//inteiro e chame o procedimento implementado. 
 import  java.util.Scanner;
 public class exe00 {
     static int n ;
