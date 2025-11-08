@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Disciplina
+comment1.params=codigo\ nome\ cargaHoraria
+comment1.target=Disciplina(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCodigo()
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=
+comment4.target=int\ getCargaHoraria()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
